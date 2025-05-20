@@ -12,10 +12,13 @@ a {
     display: flex;
 }
 
-/* test */
 .container div { 
     flex: 1;
-  }
+}
+
+.about {
+    width: 30%
+}
 
 .experience-header {
     display: flex;
