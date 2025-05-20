@@ -5,3 +5,7 @@ body {
 .container {
     display: flex;
 }
+
+.experience-header {
+    display: flex;
+}
