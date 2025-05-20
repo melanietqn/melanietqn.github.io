@@ -1,5 +1,6 @@
 body {
     font-family: Garamond, serif;
+    margin: 0 auto;
 }
 
 a {
@@ -35,13 +36,11 @@ a:hover {
 
 .about {
     border-right: 1px solid #000;
-    height: 90%;
     width: 30%;
     overflow: scroll;
 }
 
 .projects {
-    height: 90%;
     overflow: scroll;
 }
 
