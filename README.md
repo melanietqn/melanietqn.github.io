@@ -1,3 +1,3 @@
 # melanietqn.github.io
 
-archive, playground, frolicking meadow, etc.
+portfolio, archive, frolicking meadow, etc.
