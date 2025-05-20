@@ -13,11 +13,14 @@ a {
 }
 
 .container div { 
+    margin: 10%;
     flex: 1;
 }
 
 .about {
-    width: 30%
+    height: 90%;
+    width: 20%;
+    overflow: scroll;
 }
 
 .about:after{
@@ -29,6 +32,11 @@ a {
     top: 10px;
     left: 50%;
     display: block;
+}
+
+.projects {
+    height: 90%;
+    overflow: scroll;
 }
 
 .experience-header {
