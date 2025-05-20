@@ -8,9 +8,14 @@ a {
     font-weight: bold;
 }
 
+a:hover {
+    font-style: italic;
+}
+
 .header {
     border-bottom: 1px solid #000;
 }
+
 .container {
     display: flex;
 }
@@ -18,6 +23,14 @@ a {
 .container div { 
     margin: 10%;
     flex: 1;
+}
+
+.section-title {
+    border-bottom: 1px solid #000;
+}
+
+.experience {
+    border-bottom: 1px solid #000;
 }
 
 .about {
