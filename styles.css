@@ -29,6 +29,11 @@ a:hover {
     border-bottom: 1px solid #000;
 }
 
+.experience-header {
+    display: flex;
+    justify-content: space-between;
+}
+
 .experience {
     border-bottom: 1px solid #000;
 }
@@ -38,17 +43,16 @@ a:hover {
 }
 
 .about {
+    height: 100%;
+    flex-shrink: 3;
     border-right: 1px solid #000;
     padding-right: 10px;
-    width: 30%;
-    overflow: scroll;
+    flex-basis: 200px;
+    overflow-y: scroll;
 }
 
 .projects {
-    overflow: scroll;
-}
-
-.experience-header {
-    display: flex;
-    justify-content: space-between;
+    height: 100%;
+    padding-left: 10px;
+    overflow-y: scroll;
 }
